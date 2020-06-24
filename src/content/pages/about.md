@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: A propos de nous
 ---
 Ouaouh. Ou peu importe comment cela s'écrit. Nous y voilà donc, notre premier blog! Et une page pour nous présenter.
 
