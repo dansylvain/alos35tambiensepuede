@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "alos35tambiensepuede",
+    "title": "35 - se puede!",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Nuestro blog de viaje del verano de 2020.",
+    "siteUrl": "https://alos35tambiensepuede.netlify.app/",
+    "image": "/assets/logomakr_9pwpap.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
