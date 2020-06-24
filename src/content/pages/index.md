@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Natalia et Dan
+tagline: Notre voyage d'été 2020
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: En savoir plus
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Nous avons créé ce blog pour partager nos aventures estivales.
+
+Nous avons un plan pour la première partie de ces vacances, entre l'Espagne et la France, mais nous improviserons la seconde partie en découvrant des coins reculés de l'Europe!
