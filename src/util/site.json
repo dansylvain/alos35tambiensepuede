@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "35 - se puede!",
+    "title": "A los 35 se puede!",
     "titleTemplate": "%s",
     "description": "Nuestro blog de viaje del verano de 2020.",
     "siteUrl": "https://alos35tambiensepuede.netlify.app/",
-    "image": "/assets/logomakr_9pwpap.png",
+    "image": "/assets/favicon-32x32.png",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
