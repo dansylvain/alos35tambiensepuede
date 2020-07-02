@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Natalia et Dan
 tagline: Notre voyage d'été 2020
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/img-20200615-wa0000.jpg
 cta:
   ctaText: En savoir plus
   ctaLink: /about
