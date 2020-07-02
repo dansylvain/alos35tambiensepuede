@@ -5,6 +5,6 @@ title: A propos de nous
 ---
 Ouaouh. Ou peu importe comment cela s'écrit. Nous y voilà donc, notre premier blog! Et une page pour nous présenter.
 
-![Natalia et Dan](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Sont-ils pas beaux?")
+![Natalia et Dan](/assets/img-20200615-wa0002.jpg "Sont-ils pas beaux?")
 
 Nous nous sommes connus il y a maintenant plus de trois années et avons rapidement décidé de vivre ensembles. Nous sommes devenus des experts du déménagement.
