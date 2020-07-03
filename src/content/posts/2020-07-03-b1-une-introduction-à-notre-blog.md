@@ -9,7 +9,7 @@ featuredImage: /assets/img-20200615-wa0000.jpg
 ---
 # C'est quoi ce blog?
 
-![Natalia et Dan](/assets/img-20200615-wa0000.jpg "On est pas bien là? tranquilles...")
+![Natalia et Dan](/assets/img-20200615-wa0000.jpg "On n'est pas bien là? paisibles?")
 
 Dans cet article, il y a des **informations sur ce blog**. Ce que tu peux y trouver et ce qu'il peut t'apporter. Également, je présente les fonctionnalités qui n'existent pas encore et que je veux ajouter.
 
