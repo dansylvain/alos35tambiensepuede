@@ -3,9 +3,7 @@ template: about-page
 slug: /about
 title: A propos de nous
 ---
-# Vive l'Union Européenne!
-
-Elle a permis le rapprochement des peuples et je crois que sans elle, je ne serais jamais aller vivre à Cadix, en Espagne, où Natalia et moi nous sommes rencontrés.
+Vive l'Union Européenne. Elle a permis le rapprochement des peuples et je crois que sans elle, je ne serais jamais aller vivre à Cadix, en Espagne, où Natalia et moi nous sommes rencontrés.
 
 ![Natalia et Dan](/assets/img_20200502_094144.jpg "Enfin le déconfinement!")
 
