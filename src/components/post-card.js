@@ -9,7 +9,7 @@ const PostCard = ({ data }) => (
         <Link to={data.frontmatter.slug}>
           <Img 
             fluid={data.frontmatter.featuredImage.childImageSharp.fluid} 
-            objectFit="cover"
+            objectFit="fill"
             objectPosition="50% 50%"
             alt={data.frontmatter.title + ' - Featured image'}
             className="featured-image"
