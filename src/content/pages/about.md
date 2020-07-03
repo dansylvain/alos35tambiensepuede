@@ -15,7 +15,7 @@ Nous sommes devenus des pros du déménagement. C'est la ville de Cadix et notre
 
 Or nous voilà de nouveau forcés à prendre la route, en attendant que les loyers de notre ville préférée redeviennent accessibles. Et nous en profitons pour prendre des vacances et faire un beau voyage.
 
-Natalia est ergothérapeute. Ça veut dire qu'elle aide les personnes qui ont eu des dommages cérébraux à retrouver la motricité de leurs membres. Elle travaille dans une association proche de l'hôpital Puertas del Mar de Cadix depuis dix ans (!).
+Natalia est ergothérapeute. Ça veut dire qu'elle aide les personnes qui ont eu des dommages cérébraux à retrouver la motricité de leurs membres. Elle travaille dans une association proche de l'hôpital *Puertas del Mar* de Cadix depuis dix ans (!).
 
 Moi, je suis prof de français. Et serveur. Et guide touristique. Et plus récemment réceptionniste. Ou encore marin. Et bien d'autres activités encore. Bref, je suis un "millennial". Depuis peu, je m'intéresse à la programmation pour le Web. Et ce blog est un petit exercice d'application de choses que j'ai apprises lors du confinement.
 
