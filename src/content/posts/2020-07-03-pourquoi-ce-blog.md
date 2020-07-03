@@ -8,8 +8,6 @@ featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
 Dans cet article, je vais t'expliquer pourquoi nous avons décidé d'écrire ce blog.
 
-![](/assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg)
-
 Dans un premier temps, pourquoi ce titre: "*a los 35 también se puede*"?
 
 Cela vient du fait que Natalia a vu comment de jeunes gens d'un vingtaine d'années vivaient de voyages grâce à leur blog et autres publications sur Instagram. De là lui est venu l'idée qu'à trente-cinq ans aussi il est possible de créer un blog.
