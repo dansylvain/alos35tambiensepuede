@@ -19,7 +19,7 @@ const NotFound = () => (
         <h1>Ohlàlà!</h1>
         <p>Cette page n'existe pas! Choisis une option ci-dessous pour continuer...</p>
       </header>
-      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Retour à l'accueil</Link>
+      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Retour à la Page d'Accueil</Link>
       <Link to="/contact" className="button -outline">Signaler le bug <RiBugLine className="icon -right"/></Link>
     </div>
   </Layout>
