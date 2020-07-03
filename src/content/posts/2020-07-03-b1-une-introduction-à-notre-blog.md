@@ -7,6 +7,8 @@ description: Un description des informations sur notre blog de voyage. On trouve
   aussi ses fonctionnalité et les éléments manquants.
 featuredImage: /assets/img-20200615-wa0000.jpg
 ---
+# C'est quoi ce blog?
+
 Dans cet article, il y a des **informations sur ce blog**. Ce que tu peux y trouver et ce qu'il peut t'apporter. Également, je présente les fonctionnalités qui n'existent pas et que je veux ajouter.
 
 Ce blog sera un **souvenir** de nos vacances. Nous allons y publier des articles régulièrement pendant les mois de juillet et août.
