@@ -12,7 +12,7 @@ const Pagination = (props) => (
         {(props.previous && props.previous.frontmatter.template === 'blog-post') && (
           <li>
               <Link to={props.previous.frontmatter.slug} rel="prev">
-                <p><span className="icon -left"><RiArrowLeftLine/></span> Previous</p>
+                <p><span className="icon -left"><RiArrowLeftLine/></span> Précédent</p>
                 <span className="page-title">{props.previous.frontmatter.title}</span>
               </Link>
           </li>
@@ -20,7 +20,7 @@ const Pagination = (props) => (
         {(props.next && props.next.frontmatter.template === 'blog-post') && (
           <li>
             <Link to={props.next.frontmatter.slug} rel="next">
-              <p>Next <span className="icon -right"><RiArrowRightLine/></span></p>
+              <p>Suivant <span className="icon -right"><RiArrowRightLine/></span></p>
               <span className="page-title">{props.next.frontmatter.title}</span>
             </Link>
           </li>
@@ -57,7 +57,7 @@ const Post = ({ data, pageContext }) => {
           {Image ? (
             <Img 
               fluid={Image} 
-              objectFit="cover"
+              objectFit="fill"
               objectPosition="50% 50%"
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
