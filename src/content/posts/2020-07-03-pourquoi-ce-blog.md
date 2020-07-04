@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: B2 - Pourquoi ce blog?
-slug: /pourquoi-ce-blog
+slug: pourquoi-ce-blog
 date: 2020-07-03 12:33
 description: Les différentes raisons pour lesquelles nous avons décidé de créer ce blog.
 featuredImage: /assets/img-20200615-wa0003.jpg
