@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: A2 - Une fin de semaine à Tarifa
-slug: /tarifa
+slug: /weekend-tarifa
 date: 2020-07-04 14:44
 description: Un week-end à Tarifa.
 featuredImage: /assets/img-20200615-wa0006.jpg
