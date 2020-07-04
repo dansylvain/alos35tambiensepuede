@@ -26,4 +26,6 @@ Nous nous sommes promenés sur la plage. Nous avons vu le soleil. Nous avons vu 
 
 ![](/assets/IMG-20200617-WA0003.jpg)
 
-À Tarifa, nous avons fait beaucoup de photos. C'était vraiment un super week-end!
+À Tarifa, nous avons fait beaucoup de photos. C'était vraiment un super week-end.
+
+**Bonne lecture!**
