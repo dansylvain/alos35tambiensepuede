@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: B1 - Une introduction à notre Blog
-slug: /introduction
+slug: introduction
 date: 2020-07-03 07:56
 description: Un description des informations sur notre blog de voyage. On trouve
   aussi ses fonctionnalité et les éléments manquants.
