@@ -20,6 +20,8 @@ Et voilà que bien des années plus tard, et après avoir pu remarquer de nombre
 
 C'est très exactement dans la matinée du jeudi deux juillet, par marée baissante, que nous avons pu observer un spectacle surprenant. Sur la plage de Barbate. Alors que les vagues laissaient apparaître ce qui de loin ressemblait à un rocher de couleur blanche, les baigneurs et autres badauds se regroupait pour examiner ce qui s'avérait être la carapace putride d'une gigantesque tortue marine. C'est le genre de situation où l'on ne fait pas grand cas des règles de distanciation sociale, et où l'on vient volontiers dévisager la malchanceuse créature, comme pour s'assurer qu'elle est bel est bien défunte.
 
-D'où nous vient donc cette morbidité? Pourquoi est-ce presque avec gaité de coeur que nous souhaitions contempler la mort, tant que ce n'est pas quelque chose qui nous affecte directement, ou l'un de nos proches? S'il s'agissait seulement d'animaux, mais c'est le plus souvent la mort des hommes que nous contemplons en spectacle, comme rassurés d'être épargné de tout ce malheur. Le bilan annuel des décès dus aux accidents de la route. Quelques images de guerres indécentes de pays lointains, entre deux pages de publicité. Bref, cette tortue m'a rappelé mon enfance et ma mortalité.
+D'où nous vient donc cette morbidité? Pourquoi est-ce presque avec gaité de coeur que nous souhaitions contempler la mort, tant que ce n'est pas quelque chose qui nous affecte directement? S'il s'agissait seulement d'animaux, mais c'est le plus souvent la mort des hommes que nous contemplons en spectacle, comme rassurés d'être épargné de tout ce malheur. Le bilan annuel des décès dus aux accidents de la route. Quelques images de guerres indécentes en de lointains pays, entre deux pages de publicité.
+
+Bref, cette tortue m'a rappelé mon enfance et ma mortalité.
 
 **Bonne lecture!**
