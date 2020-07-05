@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: C2 - Une Charogne
-slug: barbate
+slug: charogne
 date: 2020-07-05 08:16
 description: Rencontre avec des cadavres d'animaux sur la plage.
 featuredImage: /assets/IMG_20200702_161311.jpg
