@@ -3,7 +3,7 @@ template: blog-post
 title: B2 - En vélo à San Fernando
 slug: en-velo-a-san-fernando
 date: 2020-07-06 08:00
-description: Nous sommes allés en vélo depuis Cadix à San Fernando.
+description: week-end à San Fernando
 featuredImage: /assets/IMG-20200622-WA0014.jpg
 ---
 Avec le retour des beaux jours et la fin du confinement, on a tous très envie de sortir en plein air pour se promener et profiter de l'extérieur. C'est exactement ce que nous avons fait lors d'une belle journée une semaine avant notre déménagement.
