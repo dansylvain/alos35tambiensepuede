@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: B2 - En vélo à San Fernando
-slug: en-velo-a-san-fernando
+slug: en-velo-de-cadix-a-san-fernando
 date: 2020-07-06 08:00
 description: Nous sommes allés en vélo depuis Cadix à San Fernando.
 featuredImage: /assets/IMG-20200622-WA0014.jpg
