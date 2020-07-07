@@ -6,7 +6,7 @@ date: 2020-07-07 07:37
 description: un visite de montenmedio.
 featuredImage: /assets/img-20200705-wa0007.jpg
 ---
-![](/assets/img-20200705-wa0007.jpg "Bienvenue à Montenmedio!")
+![](/assets/img-20200705-wa0008.jpg "Bienvenue à Montenmedio!")
 
 À Cadix en Andalousie, Il y a un musée d'art contemporain à l'extérieur. Ce musée s'appelle MontenMedio. Ce musée est dans la nature. Il y a beaucoup d'oeuvres d'art. Visiter le musée le premier dimanche du mois est gratuit.
 
