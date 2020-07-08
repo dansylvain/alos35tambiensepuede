@@ -8,7 +8,7 @@ const Footer = () => (
   <footer className="site-footer">
     <div className="container">
     <form className="contact-form" action="/thanksSubscribe" name="newsletter" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
-    <h1>Abonne toi à ma Newsletter!</h1>
+    <h1>Abonne toi à la Newsletter!</h1>
           <input type="hidden" name="form-name" value="newsletter" />
           <p>
             <input type="email" name="email" placeholder="adresse email"/>
