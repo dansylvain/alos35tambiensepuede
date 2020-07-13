@@ -5,6 +5,7 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
 import SEO from '../components/seo';
+import ReactDisqusComments from 'react-disqus-comments';
 
 const Pagination = (props) => (
   <div className="pagination -post">
@@ -73,6 +74,13 @@ const Post = ({ data, pageContext }) => {
       {(previous || next) && (
         <Pagination {...props} />
       )}
+
+      <ReactDisqusComments
+    shortname="a-los-35-tambien-se-puede"
+    identifier={frontmatter.slug}
+    title={frontmatter.title}
+    url={"https://alos35tambiensepuede.netlify.app/" + frontmatter.slug}
+    />
     </Layout>
   )
 }
