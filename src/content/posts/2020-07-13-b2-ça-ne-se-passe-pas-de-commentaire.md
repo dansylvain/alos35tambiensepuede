@@ -28,6 +28,6 @@ Pour pouvoir laisser un commentaire, il faut d'abord que tu t'identifies. Pour c
 
 Une fois que tu es identifié, tu peux laisser un commentaire, puis tu cliques sur le bouton en bas à droite.
 
-Facile!
+C'est facile!
 
 **À bientôt pour un nouvel article!**
