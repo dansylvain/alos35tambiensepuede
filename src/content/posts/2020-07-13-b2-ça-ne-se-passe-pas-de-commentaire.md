@@ -8,7 +8,7 @@ featuredImage: /assets/commentaires.png
 ---
 ![commentaires](/assets/commentaires.png)
 
-Et voilà, après quelques recherches un peu de code il est enfin possible de laisser des commentaires sur ce blog. Ça n'a pas été si difficile que cela à mettre en place, après tout.
+Et voilà, après quelques recherches et un peu de code il est enfin possible de laisser des commentaires sur ce blog. Ça n'a pas été si difficile que cela à mettre en place, après tout.
 
 ### Pourquoi faire des commentaires?
 
