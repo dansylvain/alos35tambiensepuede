@@ -20,11 +20,11 @@ N'hésite surtout pas à me faire savoir ce que tu en penses. Tu peux justement 
 
 ### Comment faire un commentaire?
 
-![Clique sur s'identifier](/assets/capture-d’écran-2020-07-13-à-22.49.13.png "Clique sur \\"s'identifier\\" !")
+![Clique sur s'identifier](/assets/capture-d’écran-2020-07-13-à-22.49.13.png)
 
 Pour pouvoir laisser un commentaire, il faut d'abord que tu t'identifies. Pour cela, il faut que tu cliques sur "s'identifier" et que tu te connectes avec un compte que tu as sur un autre site Internet: Google, Facebook, Twitter ou Disqus.
 
-![Écris ton commentaire et publie-le !](/assets/capture-d’écran-2020-07-13-à-22.53.27.png "Écris ton commentaire et publie-le !")
+![Écris ton commentaire et publie-le !](/assets/capture-d’écran-2020-07-13-à-22.53.27.png)
 
 Une fois que tu es identifié, tu peux laisser un commentaire, puis tu cliques sur le bouton en bas à droite.
 
