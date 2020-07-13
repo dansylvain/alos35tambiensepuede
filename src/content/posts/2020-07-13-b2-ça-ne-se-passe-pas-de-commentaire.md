@@ -14,7 +14,7 @@ Et voilà, après quelques recherches et un peu de code il est enfin possible de
 
 En fait, il y a beaucoup de choses que tu peux écrire. Tu peux me demander des informations supplémentaires sur certains articles publiés, par exemple. Tu peux aussi me poser des questions sur des mots que tu ne comprends pas, ou des expressions difficiles, ou encore un point de grammaire qui te semble compliqué.
 
-Une autre possibilité, et qui est très utile si tu apprends le français, c'est de pouvoir écrire librement un commentaire. Je ne te corrigerai pas en public, je te le promet ;) N'oublie pas, c'est en écrivant que l'on apprend le mieux.
+Une autre possibilité, et qui est très utile si tu apprends le français, c'est de pouvoir écrire librement un commentaire. Je ne te corrigerai pas en public, je te le promets ;) N'oublie pas, c'est en écrivant que l'on apprend le mieux.
 
 N'hésite surtout pas à me faire savoir ce que tu en penses. Tu peux justement utiliser les commentaires, c'est pratique.
 
