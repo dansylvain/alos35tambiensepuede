@@ -18,6 +18,14 @@ Une autre possibilité, et qui est très utile si tu apprends le français, c'es
 
 N'hésite surtout pas à me faire savoir ce que tu en penses. Tu peux justement utiliser les commentaires, c'est pratique.
 
+### Où écrire un commentaire?
+
+Juste en dessous de l'article, tout en bas de la page, tu trouves une zone où tu peux entrer ton texte.
+
+![Laisse ton commentaire en bas de page](/assets/capture-d’écran-2020-07-14-à-08.28.25.png)
+
+Parfois, il faut attendre un peu pour que cette zone de texte soit visible. Si elle n'apparaît pas, tu peux essayer de rafraichir la page. Si ça ne fonctionne toujours pas, pense bien à me contacter pour me le dire!
+
 ### Comment faire un commentaire?
 
 ![Clique sur s'identifier](/assets/capture-d’écran-2020-07-13-à-22.49.13.png)
