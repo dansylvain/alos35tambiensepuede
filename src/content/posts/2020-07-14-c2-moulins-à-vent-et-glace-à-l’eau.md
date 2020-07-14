@@ -35,4 +35,4 @@ En effet, à l'heure où j'écris ces lignes, un litre d'essence coûte moins d'
 
 N'hésite pas à me dire si de ton côté tu as trouvé une solution!
 
-À bientôt pour un nouvel article
+**À bientôt pour un nouvel article**
