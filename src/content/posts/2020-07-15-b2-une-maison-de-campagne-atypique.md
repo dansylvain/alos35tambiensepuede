@@ -33,7 +33,7 @@ La première chose à faire est réduire au maximum la consommation d'électrici
 
 La pompe qui permet de remplir la citerne d'eau consomme aussi de l'électricité. Et il y a une autre pompe qui permet d'alimenter les robinets de la maison en eau. Pour économiser l'énergie, on ne tire pas la chasse à chaque fois que l'on va au toilette. On rempli des seaux d'eau en même temps qu'on se douche et on les vide dans la cuvette des toilettes pour tirer la chasse.
 
-![Un chat blanc](/assets/IMG-20200704-WA0032.jpg "Petit chat. Prononcer \\"'ti chat\\" !")
+![un chat blanc.](/assets/IMG-20200704-WA0032.jpg "Petit Chat. Prononcer \" 'ti chat\"...")
 
 En ce qui concerne le réfrigérateur, il faut qu'il consomme le moins possible. C'est gourmand en énergie un frigo. Et notre amie n'a pas eu de chance! Alors qu'elle était en Suisse juste avant le confinement, sa mère, qui s’appelle Irène, est venue vivre dans la maison bleue de Chiclana. Et elle lui a acheté un nouveau frigo. Tout neuf. Et gigantesque, format famille nombreuse! Heureusement, Irène a également acheté des batteries neuves pour la maison. Elles sont bien meilleures, et tout fonctionne bien dans la maison.
 
