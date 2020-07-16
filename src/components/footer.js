@@ -19,7 +19,7 @@ const Footer = () => (
           </p>
         </form>
         <br></br>
-      <p>Un blog de voyage fait avec <span className="icon -love"><RiHeart2Line/></span> par <Link to="/">Dan</Link></p>
+      <p>Un blog de vacances fait avec <span className="icon -love"><RiHeart2Line/></span> par <Link to="/">Dan</Link></p>
     </div>
   </footer>
 )
