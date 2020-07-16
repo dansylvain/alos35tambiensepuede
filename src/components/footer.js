@@ -19,7 +19,7 @@ const Footer = () => (
           </p>
         </form>
         <br></br>
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
+      <p>Un blog de voyage fait avec <span className="icon -love"><RiHeart2Line/></span> par <Link to="/">Dan</Link></p>
     </div>
   </footer>
 )
