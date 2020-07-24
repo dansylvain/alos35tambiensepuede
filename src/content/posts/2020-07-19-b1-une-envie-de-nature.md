@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: B1 - Une envie de nature
+title: A2 - Une envie de nature
 slug: envie-nature
 date: 2020-07-19 10:25
 description: Nous aimons la promenade!
