@@ -11,7 +11,7 @@ featuredImage: /assets/IMG-20200704-WA0029.jpg
 
 ### La Casa Azul
 
-Nous sommes allés vivre à la campagne de Chiclana dans la "maison bleue" de notre amie suisse. C'est une maison très spéciale. Toute bleue. Il n'y a pas d'eau potable comme à la ville parce que la maison n'est pas raccordée au réseau local. Il y a de l'eau grâce à un puit qui permet de remplir une grande citerne. L'électricité est produite par des panneaux solaires et Il y a de grosses batteries pour stocker l'énergie.
+Nous sommes allés vivre à la campagne de Chiclana dans la "maison bleue" de notre amie allemande. C'est une maison très spéciale. Toute bleue. Il n'y a pas d'eau potable comme à la ville parce que la maison n'est pas raccordée au réseau local. Il y a de l'eau grâce à un puit qui permet de remplir une grande citerne. L'électricité est produite par des panneaux solaires et Il y a de grosses batteries pour stocker l'énergie.
 
 ### Pourquoi c'est différent de la vie en ville?
 
@@ -35,7 +35,7 @@ La pompe qui permet de remplir la citerne d'eau consomme aussi de l'électricit�
 
 ![un chat blanc.](/assets/IMG-20200704-WA0032.jpg "Petit Chat. Prononcer \" 'ti chat\"...")
 
-En ce qui concerne le réfrigérateur, il faut qu'il consomme le moins possible. C'est gourmand en énergie un frigo. Et notre amie n'a pas eu de chance! Alors qu'elle était en Suisse juste avant le confinement, sa mère, qui s’appelle Irène, est venue vivre dans la maison bleue de Chiclana. Et elle lui a acheté un nouveau frigo. Tout neuf. Et gigantesque, format famille nombreuse! Heureusement, Irène a également acheté des batteries neuves pour la maison. Elles sont bien meilleures, et tout fonctionne bien dans la maison.
+En ce qui concerne le réfrigérateur, il faut qu'il consomme le moins possible. C'est gourmand en énergie un frigo. Et notre amie n'a pas eu de chance! Alors qu'elle était en Allemagne juste avant le confinement, sa mère, qui s’appelle Chantale, est venue vivre dans la maison bleue de Chiclana. Et elle lui a acheté un nouveau frigo. Tout neuf. Et gigantesque, format famille nombreuse! Heureusement, Chantale a également acheté des batteries neuves pour la maison. Elles sont bien meilleures, et tout fonctionne bien dans la maison.
 
 ### Et alors, est-ce que c'est mieux que vivre en ville?
 
