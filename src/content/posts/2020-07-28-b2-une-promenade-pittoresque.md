@@ -6,7 +6,7 @@ date: 2020-07-28 07:29
 description: Nous avons fait la rando-croquis du bois de Sizay.
 featuredImage: /assets/img-20200724-wa0019.jpg
 ---
-Il y a un bois où l'on peut faire une promenade très originale. Il s'agit de la *rando-croquis*, une manière amusante de s'initier au croquis de paysage le long d'un beau parcours dans la nature.
+Il y a un bois où l'on peut faire une promenade très originale. Il s'agit de la *rando-croquis du bois de Sizay*, une ballade sympathique pour s'initier au croquis de paysage le long d'un beau parcours dans la nature.
 
 ![](/assets/img-20200724-wa0010.jpg)
 
