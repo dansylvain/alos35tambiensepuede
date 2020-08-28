@@ -6,12 +6,11 @@ date: 2020-08-13 07:29
 description: Nous avons fait un vol en parapente au dessus du lac Léman.
 featuredImage: /assets/IMG-20200731-WA0005.jpg
 ---
-
 ![](/assets/IMG-20200731-WA0013.jpg)
 
 Tout comme chaque élément de mon accoutrement, mes chaussures ont leur part à jouer. Bien plus que satisfaire le plus élémentaire besoin de pudeur qui me caractérise, bottes de randonnée, escarpins, baskets et savates en tout genre m’ont permis de cheminer gaiement sur le sentier de la vie, sans jamais trop me soucier des irrégularités du relief. Et j’attache une spéciale importance à l’habillement approprié de mes petons, en vue de protéger mon mode de locomotion préféré qui est la marche à pied.
 
-Or il se trouve que j’ai la fâcheuse tendance d’user mes grolles de façon accélérée. Je me rappelle par exemple une paire de sandales que l’on m’avait offerte et dont le généreux donateur m'avait vanté la longévité. Il avait utilisé le même modèle pendant des années sans que le temps ait pu en altérer la semelle. Elles ne me survivèrent pas plus d'un été. Mes souliers de service, encore, lorsque gaillard j’aidais au bon déroulement de banquets et autres réceptions restauratrices, ne tardaient généralement que quelques mois avant de rendre l’âme.
+Or il se trouve que j’ai la fâcheuse tendance d’user mes grolles de façon accélérée. Je me rappelle par exemple une paire de sandales que l’on m’avait offerte et dont le généreux donateur m'avait vanté la longévité. Il avait utilisé le même modèle pendant des années sans que le temps ait pu en altérer la semelle. Elles ne me survécurent pas plus d'un été. Mes souliers de service, encore, lorsque gaillard j’aidais au bon déroulement de banquets et autres réceptions restauratrices, ne tardaient généralement que quelques mois avant de rendre l’âme.
 
 ![](/assets/IMG-20200731-WA0004.jpg)
 
