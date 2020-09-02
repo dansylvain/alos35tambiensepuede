@@ -34,4 +34,4 @@ Je n'oublie pas les curieux qui se demandent ce qui a bien pu nous arriver lors 
 
 Mais ça, ce sera pour une prochaine publication ;)
 
-À bientôt pour un dernier article!
+**À bientôt pour un dernier article!**
