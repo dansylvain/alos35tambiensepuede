@@ -26,7 +26,9 @@ La vérité est que je me suis rendu compte avec ce blog que publier pour le Net
 
 Le bilan reste malgré tout très positif. Nous avons vécu deux mois inoubliables, d'autant plus que nous en gardons maintenant un souvenir écrit. Du moins en partie. Cette expérience est très concluante également du point de vue technique. Le but premier était vraiment de mettre en pratique des connaissances informatiques que j'avais acquises lors du confinement. Mission accomplie. Je sais créer un blog perso et y publier des articles.
 
-![](/assets/img-20200821-wa0072.jpg "En l'an de grâce 1123, le roi Louis VI Capet dit \\"le Gros\\"...")
+![](/assets/img-20200821-wa0072.jpg "En l'an de grâce 1123, le roi Louis VI Capet dit Le Gros...")
+
+
 
 Je n'oublie pas les curieux qui se demandent ce qui a bien pu nous arriver lors de la deuxième partie de ce voyage. Je serais tenté de leur dire que c'était vraiment chouette, et pis qu'on a fait plein de photos, et pis qu’on attend qu’une chose et c’est de pouvoir repartir en vacances et pis... ce serait tout. Mais Je crois que les personnes qui ont suivi ce blog de près pendant ces deux mois d'été méritent mieux qu'une simple phrase pour balayer d’un revers de la main plus d'un mois de voyage riche en anecdotes entre trois pays en pleine crise sanitaire. C'est pourquoi je me dois de leur résumer les derniers épisodes de notre saga...
 
