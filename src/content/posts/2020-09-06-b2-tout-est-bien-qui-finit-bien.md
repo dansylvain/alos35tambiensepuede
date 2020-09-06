@@ -5,6 +5,7 @@ slug: resume-fin-du-voyage
 date: 2020-09-06 13:49
 description: Un dernier article pour résumer les derniers évènements à la fin de
   notre voyage!
+featuredImage: /assets/img-20200804-wa0083.jpg
 ---
 ***Je vous l'avais promis, voici un panorama des dernières destinations que nous avons visitées lors de notre voyage d'été.***
 
@@ -16,7 +17,7 @@ Lors de mon séjour à Berlin, qui a duré cinq années, j'ai eu la chance d'y �
 
 Zurich est une ville très agréable, nous l'avons découverte avec des amis que nous connaissons de Cadix. De fait, ils se sont mariés tout près du détroit de Gibraltar, et ils aiment énormément l'Andalousie. Grâce à eux, nous avons pu visiter la ville et connaître des personnes très sympathiques.
 
-![](/assets/img-20200803-wa0014.jpg)
+![](/assets/img-20200804-wa0002.jpg)
 
 À notre départ de Zurich, nous savions qu'il était temps pour nous de retourner en France. Mais nous n'avions pas encore décidé notre destination. Alors nous en avons profité pour voir plusieurs villes magnifiques, en Suisse comme en France.
 
@@ -34,7 +35,7 @@ Après un court séjour avec ma famille au sud de Lyon, dans la vallée du Rhôn
 
 Nous sommes partis en direction de Digne-les-Bains. J'avais entendu parler de cette ville comme étant la "capitale de la Provence". Mouais. C'est vrai que Digne est très bien située dans les montagnes et proche de la mer, et qu'on y trouve des champs de lavande et un parc botanique avec des papillons. Mais la ville ne nous a pas semblé exceptionnelle. Sympathique, certes, mais nous avons déjà vu des villes bien plus attrayantes que Digne. En plus, les champs de lavande avaient été récoltés quelques semaines avant notre arrivée...
 
-![](/assets/img-20200804-wa0083.jpg)
+![](/assets/img-20200804-wa0010.jpg)
 
 Après Digne, nous sommes allés en direction de la Côte d'Azur. J'avais un excellent souvenir d'un port nommé le Grau-du-Roi, un lieu où nous venions régulièrement avec mes parents pour passer des vacances, ou la fin de semaine. Mais nous étions toujours venus en dehors de la saison des vacances d'été! Je ne m'attendais pas à voir cette ville remplie de monde, ce qui n'est pas une bonne chose quand il y a un virus qui circule activement sur le territoire. Nous avons préféré nous tenir à l'écart.
 
